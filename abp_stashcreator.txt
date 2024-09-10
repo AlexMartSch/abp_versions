@@ -1,1 +1,1 @@
-{"version":"1.0.1", "optional": false, "news":"Fix some issues."}
+{"version":"1.0.2", "optional": true, "news":"Added QB-Target Support"}
